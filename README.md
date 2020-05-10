@@ -1,2 +1,2 @@
 # Algorithm
-Cording test
+Coding test
