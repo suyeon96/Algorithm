@@ -4,11 +4,11 @@
  * Mem : 16836KB / Time : 180ms
  */
 
-package acmicpc;
+package acmicpc.평균은넘겠지;
 
 import java.util.Scanner;
 
-public class Q4344 {
+public class Main {
 
     static Scanner scan = new Scanner(System.in);
 

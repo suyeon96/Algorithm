@@ -4,11 +4,11 @@
  * Mem : 14260KB / Time : 104ms
  */
 
-package acmicpc;
+package acmicpc.세수;
 
 import java.util.Scanner;
 
-public class Q10817 {
+public class Main {
 
     static Scanner scan = new Scanner(System.in);
 

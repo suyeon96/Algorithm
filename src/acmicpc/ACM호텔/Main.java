@@ -4,11 +4,11 @@
  * Mem : 15140KB / Time : 132ms
  */
 
-package acmicpc;
+package acmicpc.ACM호텔;
 
 import java.util.Scanner;
 
-public class Q10250 {
+public class Main {
 
     static Scanner scan = new Scanner(System.in);
 

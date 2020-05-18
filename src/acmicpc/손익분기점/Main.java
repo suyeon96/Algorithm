@@ -4,11 +4,11 @@
  * Mem : 14252KB / Time : 108ms
  */
 
-package acmicpc;
+package acmicpc.손익분기점;
 
 import java.util.Scanner;
 
-public class Q1712 {
+public class Main {
 
     static Scanner scan = new Scanner(System.in);
 
